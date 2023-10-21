@@ -1,6 +1,12 @@
 # Crop Suitability and Weather Forcasting Recommendation System using Machine Learning Approach and Flask Framework [Final Year Project]
 
 
-Domain - Machine Learning, Front-End Development (HTML, CSS, JavaScript, Bootstrap), PHP (Server-side)
+Tech Stack used :
 
-Libraries used - Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Flask, Joblib, Pickle, Weather, Requests
+1. Front-End Development - HTML, CSS, JavaScript, Bootstrap
+
+2. Server-side - PHP
+
+3. Machine Learning Algorithm - Random Forest Regressor and Classifier
+
+
