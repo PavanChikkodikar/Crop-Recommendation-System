@@ -7,6 +7,6 @@ Tech Stack used :
 
 2. Server-side - PHP
 
-3. Machine Learning Algorithm - Random Forest Regressor and Classifier
+3. Machine Learning  - Performed Feature Selection, Model Training and Evaluation, Model Prediction and Model Serialization
 
 
